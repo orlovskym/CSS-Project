@@ -61,6 +61,11 @@ ul{
     display: flex;
     list-style: none;
     gap: 16px;
+    
+}
+
+.header a{
+    text-decoration: none;
 }
 
 .s2_infobox img{

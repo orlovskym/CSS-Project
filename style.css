@@ -27,6 +27,8 @@ body{
 
 .s2_infobox{
     text-align: center;
+    height: 300px;
+    width: 300px;
 }
 
 .section3{
@@ -59,4 +61,13 @@ ul{
     display: flex;
     list-style: none;
     gap: 16px;
+}
+
+.s2_infobox img{
+    max-width: 200px;
+
+}
+
+.s1_image{
+    max-width: 400px;
 }

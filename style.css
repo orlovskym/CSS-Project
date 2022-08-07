@@ -54,3 +54,9 @@ body{
     justify-content: center;
     align-items: center;
 }
+
+ul{
+    display: flex;
+    list-style: none;
+    gap: 16px;
+}
